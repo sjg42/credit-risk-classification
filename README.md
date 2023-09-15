@@ -1,7 +1,5 @@
 ## Overview of the Analysis
 
-In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
-
 The purpose of this analysis was to use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
 The dataset included Loan Size, Interest Rate, Borrower Income, Debt to Income Ratio, Number of Accounts, Derogatory Marks, Total Debt, and their Creditworthiness. The goal of the analysis was to predict a borrower's Creditworthiness using the other provided variables.  The dataset included 75,036 borrowers that were considered creditworthy, and 2500 borrowers that were identified as risky borrowers.
 
